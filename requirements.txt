@@ -6,3 +6,5 @@ plotly
 scipy
 statsmodels
 fredapi
+datetime
+product
